@@ -8,17 +8,32 @@ Plataforma online para a venda de ingressos de cinema e teatro. Envolvendo os pr
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-Informe aqui os tipos de usuário que irão interagir com a aplicação. Ex: administrador, locador, locatario, usuário não logado.
+Usuário: Cadastrado ou Não cadastrado (consumidor), Administradores, Analistas de Vendas. Ex: administrador, locador, locatario, usuário não logado.
 
 > Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
 Liste as principais entidades do sistema.
+Usuário, Usuário (Não Cadastrado), Analista de Vendas, Administração, Sistema de Compras e Pagamento, Sistema de Vendas, Cadastro.
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
-Descreve ou liste brevemente as principais funcionalidades da aplicação que será desenvolvida. Destaque a funcionalidades que serão acessévies a todos os usuários e aquelas restriras a usuários logados.
 
+Sistema de Busca: O consumidor consegue buscar filmes ou peças teatrais que estão em cartaz no momento e que estã disponíveis a venda de ingressos na plataforma.
+
+Sistema de Cadastro: o consumidor consegue cadastrar-se no sistema, para facilitar suas experiências futuras na plataforma.
+
+Sistema de Atendimento: Atendimento para auxiliar os consumidores na compra ou cancelamento de um ingresso.
+
+Exibição: Mostra os filmes e peças teatrais que estão em cartaz naquele dia, exibindo também detalhes, como sinopse, sessões e etc...
+
+Sistema de Compra de Ingressos (Somente para usuários cadastrados): Permite a compra de ingressos do filme ou peça teatral que for selecionado pelo usuário.
+
+Sistema de Pagamento (Somente para usuarios cadastrados): Funciona juntamente com o sistema de compras. Aceita as principais formas de pagamento do consumidor.
+
+Sistema de Histórico de Vendas (Somente para Analista de Vendas): Apresentar um relatório de vendas para os analistas, informando quais títulos possuem alta demanda.
+
+Sistema de Administração (Somente para Administradores): Auxiliar no Sistema de Atendimento, estabelecendo uma comunicação com os consumidores. 
 
 ----
 
