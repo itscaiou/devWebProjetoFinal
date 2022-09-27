@@ -8,13 +8,13 @@ Plataforma online para a venda de ingressos de cinema e teatro. Envolvendo os pr
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-Usuário: Cadastrado ou Não cadastrado (consumidor), Administradores, Analistas de Vendas. Ex: administrador, locador, locatario, usuário não logado.
+Usuário: Cadastrado ou Não cadastrado (consumidor), Administradores, Analistas de Vendas. 
 
 > Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
 Liste as principais entidades do sistema.
-Usuário, Usuário (Não Cadastrado), Analista de Vendas, Administração, Sistema de Compras e Pagamento, Sistema de Vendas, Cadastro.
+Usuário, Usuário (Não Cadastrado), Analista de Vendas, Administração, Sistema de Pagamento, Sistema de Vendas, Cadastro, Filmes/Peças em cartaz.
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
